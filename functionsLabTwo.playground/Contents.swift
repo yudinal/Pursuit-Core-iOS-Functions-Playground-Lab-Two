@@ -8,7 +8,7 @@ import UIKit
 
 let testCasesOne: [([Double], Double)] = [
     (input: [1,2,3,4,5], expectedOutput: 3),
-    (input: [1,42,1,541,42,5], expectedOutput: 105),
+    (input: [1,42,1,541,42,6], expectedOutput: 105.5),
     (input: [-10,5,-15,20], expectedOutput: 0),
     (input: [1.5, 2.25, 4.5, -1.5], expectedOutput: 1.6875),
 ]
