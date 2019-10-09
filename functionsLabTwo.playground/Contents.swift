@@ -69,7 +69,7 @@ let testCasesFour = [
     (inputOne: 2, inputTwo: [1,2,3,4,5], expectedOutput: false),
     (inputOne: 3, inputTwo: [1,2,3,4,5], expectedOutput: false),
     (inputOne: 100.8, inputTwo: [1,42,1,541,42,5], expectedOutput: false),
-    (inputOne: 105.1, inputTwo: [1,42,1,541,42,5], expectedOutput: true),
+    (inputOne: 105.4, inputTwo: [1,42,1,541,42,5], expectedOutput: true),
 ]
 
 //for (inputOne, inputTwo, expectedOutput) in testCasesFour {
